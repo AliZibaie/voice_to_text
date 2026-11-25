@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# Local machine paths written by install_shell()
+shell/host.json
+
+# Debug symbols
+*.pdb
+
+# Incomplete Hugging Face downloads (if mirrored into the repo by mistake)
+*.incomplete
