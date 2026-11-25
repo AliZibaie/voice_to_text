@@ -107,11 +107,4 @@ Result card in the UI
 - Estedad font: see `fonts/OFL.txt` (SIL Open Font License)
 - Whisper / Faster-Whisper: follow their upstream licenses
 
-## Push to a remote
 
-This repository is initialized with an initial commit and **no remote**. Add yours and push:
-
-```bash
-git remote add origin <YOUR_REPO_URL>
-git push -u origin main
-```
